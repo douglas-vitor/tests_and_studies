@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    font-style: normal, Arial;
+    background-color: #A9A9A9;
+}
+
+header {
+    color: rgb(77, 154, 255);
+    font-weight: bold;
+    font-size: 30pt;
+    text-align: center;
+    margin: 10px 0 10px 0;
+}
+
+section div {
+    float: left;
+    width: 40%;
+    background-color: #DCDCDC;
+}
+section .myclock {
+    margin: 0 0 0 10%;
+    border-radius: 8px 0 0 8px;
+    text-align: center;
+    height: 80vh;
+    opacity: 0.8;
+    color: #808080;
+    font-weight: bold;
+    font-size: 50pt;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-shadow: -1px -1px 6px rgba(0, 0, 0, 0.979);
+}
+
+section .image-home {
+    margin: 0 10% 0 0;
+    border-radius: 0 8px 8px 0;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer {
+    float: left;
+    width: 100%;
+    color: rgb(77, 154, 255);
+    font-style: italic;
+    font-weight: bold;
+    font-size: 10pt;
+    text-align: center;
+    margin-top: 20px;
+}
