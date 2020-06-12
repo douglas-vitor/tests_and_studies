@@ -10,6 +10,6 @@
 ###### Prints
 <div align="center">
 <img src="exemplo01-relogio_animado/prints/manha.png" width="100px" height="auto">
-<img src="exemplo01-relogio_animado/prints/tarde.png" width="auto" height="200px">
+<img src="exemplo01-relogio_animado/prints/tarde.png" width="auto" height="100px">
 <img src="exemplo01-relogio_animado/prints/noite.png" width="100px" height="auto">
 </div>
