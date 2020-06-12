@@ -3,10 +3,9 @@ function carregar() {
     var img = window.document.getElementById('image-home')
     var myClock = window.document.getElementById('myclock')
     var data = new Date()
-    //var hora = data.getHours()
-    //var minute = data.getMinutes()
-    var hora = 22
-    var minute = 45
+    var hora = data.getHours()
+    var minute = data.getMinutes()
+    
     if (hora >= 0 && hora < 12) {
         //bom dia
         msg.innerHTML = "Bom dia!"
