@@ -9,7 +9,7 @@
 - Função Carregar, resposavel pela mensagem de saudação, cor de fundo, icone visivel e relógio é atualizado a cada 1 segundo pelo metodo setInterval().
 ###### Prints
 <div align="center">
-<img src="exemplo01-relogio_animado/prints/manha.png" width="200px" height="auto">
-<img src="exemplo01-relogio_animado/prints/tarde.png" width="200px" height="auto">
-<img src="exemplo01-relogio_animado/prints/noite.png" width="200px" height="auto">
+<img src="exemplo01-relogio_animado/prints/manha.png" width="100px" height="auto">
+<img src="exemplo01-relogio_animado/prints/tarde.png" width="auto" height="200px">
+<img src="exemplo01-relogio_animado/prints/noite.png" width="100px" height="auto">
 </div>
