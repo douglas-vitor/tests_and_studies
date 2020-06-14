@@ -13,3 +13,10 @@
 <img src="exemplo01-relogio_animado/prints/tarde.png" width="auto" height="100px">
 <img src="exemplo01-relogio_animado/prints/noite.png" width="100px" height="auto">
 </div>
+
+2.[Diário de viagem](https://github.com/douglas-vitor/tests_and_studies/tree/master/Diario_viagem)
+- Em andamento.
+###### Prints
+<div align="center">
+Em andamento
+</div>
