@@ -1,0 +1,27 @@
+{
+  "name": "diario",
+  "version": "1.0.0",
+  "description": "1.[Exemplo 01 : Relógio animado](https://github.com/douglas-vitor/tests_and_studies/tree/master/exemplo01-relogio_animado)\r - Simples página html/css, com relógio dinâmico sendo pego por javascript com a função Date.\r - Conjunto de condições if, para alterar dinâmicamente background color da página e imagem icon.\r - Função Carregar, resposavel pela mensagem de saudação, cor de fundo, icone visivel e relógio é atualizado a cada 1 segundo pelo metodo setInterval().\r ###### Prints\r <div align=\"center\">\r <img src=\"exemplo01-relogio_animado/prints/manha.png\" width=\"100px\" height=\"auto\">\r <img src=\"exemplo01-relogio_animado/prints/tarde.png\" width=\"auto\" height=\"100px\">\r <img src=\"exemplo01-relogio_animado/prints/noite.png\" width=\"100px\" height=\"auto\">\r </div>",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/douglas-vitor/tests_and_studies.git"
+  },
+  "author": "Douglas Vitor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/douglas-vitor/tests_and_studies/issues"
+  },
+  "homepage": "https://github.com/douglas-vitor/tests_and_studies#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1",
+    "sqlite3": "^4.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

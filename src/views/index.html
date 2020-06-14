@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block styles %}
+    <link rel="stylesheet" href="/styles/home.css">
+{% endblock styles %}
+
+{% block titulo %}
+    <title>Meu Diário de viagem</title>
+{% endblock titulo %}
+
+{% block header %}
+    <header>
+        <div class="content">
+        {% for trip in trips %}
+            <h1>{{ trip.title }}</h1>
+            <h3>{{ trip.description }}</h3>
+        {% endfor %}
+        </div>
+    </header>
+{% endblock header %}

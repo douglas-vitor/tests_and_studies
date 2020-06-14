@@ -1,0 +1,34 @@
+header {
+    background-color: white;
+    width: 90%;
+    height: 90%;
+    margin: auto;
+}
+
+header .container {
+    float: left;
+    width: 100%;
+    padding: 1em 1em 1em 1em;
+    display: flexbox;
+    align-items: center;
+    overflow-y: auto;
+}
+
+header .container a .photo {
+    float: left;
+    width: 5em;
+    height: 5.5em;
+    border: solid 1px gray;
+    margin: 1em 1em 1em 1em;
+    background-color: white;
+    box-shadow: -3px 3px 5px rgba(128, 128, 128, 0.795);
+    -moz-box-shadow: -3px 3px 5px rgba(128, 128, 128, 0.795);
+    -webkit-box-shadow: -3px 3px 5px rgba(128, 128, 128, 0.795);
+}
+
+header .container a .photo span img {
+    width: 90%;
+    height: 75%;
+    margin: 5% 5% 5% 5%;
+    background-color: rgb(202, 202, 202);
+}
