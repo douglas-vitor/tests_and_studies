@@ -30,14 +30,14 @@
         </div>
         <div class="container">
 
-        {% for comment in comments %}
-            <div class="comment">
-                <span><img src="{{ comment.image }}" alt="Foto do usuário"></span>
-                <fieldset>
-                    <legend>{{ comment.name }}</legend>
-                    {{ comment.comment }}
-                </fieldset>
-            </div>
+            {% for comment in comments %}
+                <div class="comment">
+                    <span><img src="{{ comment.image }}" alt="Foto do usuário"></span>
+                    <fieldset>
+                        <legend>{{ comment.name }}</legend>
+                        {{ comment.comment }}
+                    </fieldset>
+                </div>
             {% endfor %}
 
         </div>

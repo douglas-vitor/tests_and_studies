@@ -66,9 +66,9 @@ header .postagem form button:hover {
 header .container {
     float: left;
     width: 100%;
-    height: 80%;
+    height: 70%;
     overflow-y: auto;
-
+    padding-top: 1em;
 }
 
 header .container .comment span { 
