@@ -51,15 +51,12 @@ header .container .comment fieldset legend {
 header .container-gallery {
     width: 90%;
     height: 100%;
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-items: center;
-    justify-content: space-between;
-
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
 }
 header .container-gallery a .photo {
-    flex: 1;
+    margin: auto;
     width: 6em;
     height: 6.5em;
 }
