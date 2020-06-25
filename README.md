@@ -20,7 +20,7 @@
 - Exportação de dados dinâmicos através de JS.
 ###### Prints
 <div align="center">
-<img src="exemplo02-simples_portfolio/prints/home.png" width="100px" height="auto">
-<img src="exemplo02-simples_portfolio/prints/videos.png" width="100px" height="auto">
-<img src="exemplo02-simples_portfolio/prints/preview.png" width="100px" height="auto">
+<img src="exemplo02-simples_portfolio/prints/home.png" width="250px" height="auto">
+<img src="exemplo02-simples_portfolio/prints/videos.png" width="250px" height="auto">
+<img src="exemplo02-simples_portfolio/prints/preview.png" width="250px" height="auto">
 </div>
