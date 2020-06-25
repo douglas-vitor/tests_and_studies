@@ -14,9 +14,13 @@
 <img src="exemplo01-relogio_animado/prints/noite.png" width="100px" height="auto">
 </div>
 
-2.[Diário de viagem](https://github.com/douglas-vitor/tests_and_studies/tree/master/Diario_viagem)
-- Em andamento.
+2.[Simples portfolio](https://github.com/douglas-vitor/tests_and_studies/tree/master/exemplo02-simples_portfolio)
+- Simples exemplo de portfolio, usando as tecnologias JavaScript, Css e Html.
+- Estrutura de arquivos usando template engine Nunjucks
+- Exportação de dados dinâmicos através de JS.
 ###### Prints
 <div align="center">
-Em andamento
+<img src="exemplo02-simples_portfolio/prints/home.png" width="100px" height="auto">
+<img src="exemplo02-simples_portfolio/prints/videos.png" width="100px" height="auto">
+<img src="exemplo02-simples_portfolio/prints/preview.png" width="100px" height="auto">
 </div>
