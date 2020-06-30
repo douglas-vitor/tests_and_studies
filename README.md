@@ -24,3 +24,10 @@
 <img src="exemplo02-simples_portfolio/prints/videos.png" width="250px" height="auto">
 <img src="exemplo02-simples_portfolio/prints/preview.png" width="250px" height="auto">
 </div>
+
+3.[Controle de academia](https://github.com/douglas-vitor/tests_and_studies/tree/master/exemplo03-controle_de_academia)
+- Em andamento;
+###### Prints
+<div align="center">
+Em andamento.
+</div>
