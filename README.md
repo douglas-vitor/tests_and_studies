@@ -14,6 +14,7 @@
 <img src="exemplo01-relogio_animado/prints/noite.png" width="100px" height="auto">
 </div>
 
+
 2.[Simples portfolio](https://github.com/douglas-vitor/tests_and_studies/tree/master/exemplo02-simples_portfolio)
 - Simples exemplo de portfolio, usando as tecnologias JavaScript, Css e Html.
 - Estrutura de arquivos usando template engine Nunjucks.
@@ -24,6 +25,7 @@
 <img src="exemplo02-simples_portfolio/prints/videos.png" width="250px" height="auto">
 <img src="exemplo02-simples_portfolio/prints/preview.png" width="250px" height="auto">
 </div>
+
 
 3.[Controle de academia](https://github.com/douglas-vitor/tests_and_studies/tree/master/exemplo03-controle_de_academia)
 - Em andamento;
