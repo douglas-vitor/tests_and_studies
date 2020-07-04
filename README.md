@@ -35,5 +35,9 @@
 - Adicionado função para listagem de todos os instrutores e mebros no index, adicionado funcção de confirmação de exclusão de instrutor/membro.
 ###### Prints
 <div align="center">
-Em andamento.
+<img src="exemplo03-controle_de_academia/captures/00.png" width="250px" height="auto">
+<img src="exemplo03-controle_de_academia/captures/01.png" width="250px" height="auto">
+<img src="exemplo03-controle_de_academia/captures/02.png" width="250px" height="auto">
+<img src="exemplo03-controle_de_academia/captures/03.png" width="250px" height="auto">
+<img src="exemplo03-controle_de_academia/captures/04.png" width="250px" height="auto">
 </div> 

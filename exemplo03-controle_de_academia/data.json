@@ -9,7 +9,7 @@
       "gender": "M",
       "blood": "A+",
       "weight": "65",
-      "height": "170"
+      "height": "175"
     },
     {
       "id": 2,
@@ -18,20 +18,29 @@
       "email": "meuemail@hotmail.com",
       "birth": 949363200000,
       "gender": "F",
-      "blood": "AB+",
-      "weight": "60",
-      "height": "155"
+      "blood": "A-",
+      "weight": "55",
+      "height": "150"
     }
   ],
   "instructors": [
     {
       "id": 3,
-      "avatar_url": "https://static.thenounproject.com/png/516772-200.png",
+      "avatar_url": "https://images.unsplash.com/photo-1554278853-c61af9e7aad6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
       "name": "Pedro",
       "birth": 947548800000,
       "gender": "M",
       "services": "Crossfit, Musculação",
       "created_at": 1593563510749
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://i.pinimg.com/236x/94/b9/ec/94b9ecefbf6891b5f92569d006103533--harry-potter-silhouette-harry-potter-pumpkin.jpg",
+      "name": "Harry Potter",
+      "birth": 794102400000,
+      "gender": "M",
+      "services": "Musculação, Magia, Bruxaria",
+      "created_at": 1593896262751
     }
   ]
 }
