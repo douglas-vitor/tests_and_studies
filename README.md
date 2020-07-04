@@ -30,9 +30,9 @@
 3.[Controle de academia](https://github.com/douglas-vitor/tests_and_studies/tree/master/exemplo03-controle_de_academia)
 - Sistema completo de gestão de intrutores e membros de uma academia.
 - Criado a estrutura de paginas, utilizando html, css, javascript e a template engine Nunjucks;
-- Criado pagina de detalhes do instrutor;
-- Criado pagina de edição de instrutores;
-- Adicionado função para listagem de todos os instrutores no index.
+- Criado pagina de detalhes dos instrutores e membros;
+- Criado pagina de edição dos instrutores e membros;
+- Adicionado função para listagem de todos os instrutores e mebros no index, adicionado funcção de confirmação de exclusão de instrutor/membro.
 ###### Prints
 <div align="center">
 Em andamento.

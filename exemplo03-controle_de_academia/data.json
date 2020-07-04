@@ -1,22 +1,37 @@
 {
-  "instructors": [
+  "members": [
     {
-      "id": 3,
+      "id": 1,
       "avatar_url": "https://static.thenounproject.com/png/516772-200.png",
-      "name": "Pedro",
-      "birth": 789782400000,
+      "name": "Douglas",
+      "email": "meuemail@hotmail.com",
+      "birth": 946684800000,
       "gender": "M",
-      "services": "Crossfit, Musculação",
-      "created_at": 1593563510749
+      "blood": "A+",
+      "weight": "65",
+      "height": "170"
     },
     {
       "id": 2,
       "avatar_url": "https://i.pinimg.com/736x/90/bc/75/90bc756c05980eec25272ed7c1135022.jpg",
       "name": "Gabriela",
-      "birth": 946684800000,
+      "email": "meuemail@hotmail.com",
+      "birth": 949363200000,
       "gender": "F",
-      "services": "Crossfit, Dança",
-      "created_at": 1593727807490
+      "blood": "AB+",
+      "weight": "60",
+      "height": "155"
+    }
+  ],
+  "instructors": [
+    {
+      "id": 3,
+      "avatar_url": "https://static.thenounproject.com/png/516772-200.png",
+      "name": "Pedro",
+      "birth": 947548800000,
+      "gender": "M",
+      "services": "Crossfit, Musculação",
+      "created_at": 1593563510749
     }
   ]
 }
