@@ -32,7 +32,7 @@
 - Criado a estrutura de paginas, utilizando html, css, javascript e a template engine Nunjucks;
 - Criado pagina de detalhes dos instrutores e membros;
 - Criado pagina de edição dos instrutores e membros;
-- Adicionado função para listagem de todos os instrutores e mebros no index, adicionado funcção de confirmação de exclusão de instrutor/membro.
+- Adicionado função para listagem de todos os instrutores e membros no index, adicionado funcção de confirmação de exclusão de instrutor/membro.
 ###### Prints
 <div align="center">
 <img src="exemplo03-controle_de_academia/captures/00.png" width="250px" height="auto">
