@@ -1,9 +1,10 @@
-const { age, date } = require("../../lib/utils")
+const instructor = require("../models/instructor")
 
 module.exports = {
     index(req, res) {
-        return res.render("instructors/index")
-
+        instructor.all(function(instructors) {
+            return res.render("instructors/index", { instructors })
+        })
     },
     show(req, res) {
         return
@@ -20,9 +21,9 @@ module.exports = {
             }
         }
 
-        let { avatar_url, birth, name, services, gender } = req.body
-
-        return
+        instructor.create(req.body, function(instructor) {
+            return res.redirect(`instructors/${instructor.id}`)
+        })
     },
     edit(req, res) {
         return
@@ -42,3 +43,4 @@ module.exports = {
     delete(req, res) {
         return
     }
+}

@@ -41,3 +41,4 @@ module.exports = {
     delete(req, res) {
         return
     }
+}
