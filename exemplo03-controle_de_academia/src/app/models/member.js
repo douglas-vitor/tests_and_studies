@@ -3,8 +3,7 @@ const db = require("../../config/db")
 
 module.exports = {
     all(callback) {
-        db.query(`SELECT * 
-        FROM members ORDERY BY name DESC`, function (err, results) {
+        db.query(`SELECT * FROM members`, function (err, results) {
             if (err) {
                 throw `Database error. ${err}`
             }
