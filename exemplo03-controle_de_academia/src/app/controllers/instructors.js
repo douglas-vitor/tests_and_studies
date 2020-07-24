@@ -15,23 +15,15 @@ module.exports = {
             limit,
             offset,
             callback(instructors) {
-                return res.render("instructors/index", {filter, instructors })
+                const pagination = {
+                    total: Math.ceil(instructors[0].total / limit),
+                    page
+                }
+                return res.render("instructors/index", { instructors, filter, pagination })
             }
         }
 
         instructor.paginate(params)
-        
-        
-        
-        /*if(filter) {
-            instructor.findBy(filter, function(instructors) {
-                return res.render("instructors/index", {filter, instructors })
-            })
-        } else {
-            instructor.all(function(instructors) {
-                return res.render("instructors/index", { instructors })
-            })
-        }*/
     },
     show(req, res) {
         instructor.find(req.params.id, function(instructor) {
