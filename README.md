@@ -43,4 +43,5 @@
 <img src="exemplo03-controle_de_academia/captures/02.png" width="250px" height="auto">
 <img src="exemplo03-controle_de_academia/captures/03.png" width="250px" height="auto">
 <img src="exemplo03-controle_de_academia/captures/04.png" width="250px" height="auto">
+<img src="exemplo03-controle_de_academia/captures/05.png" width="250px" height="auto">
 </div> 
