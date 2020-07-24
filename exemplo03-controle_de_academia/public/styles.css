@@ -186,6 +186,7 @@ tbody tr td:first-child {
     display: grid;
     grid-template-columns: 64px 1fr;
     align-items: center;
+    min-height: 63px;
 }
 tbody tr td:first-child span {
     width: 48px;
@@ -206,6 +207,7 @@ tbody tr td:last-child a,
     font-size: 12px;
     border-radius: 4px;
 }
+tbody tr td { height: 63px; }
 .table-container a {
     margin-bottom: 16px;
     display: inline-block;
