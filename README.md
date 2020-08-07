@@ -14,7 +14,7 @@
 <img src="exemplo01-relogio_animado/prints/noite.png" width="100px" height="auto">
 </div>
 
-<span style="width:100%; height:40px;"></span>
+<span style="width:100%; height:80px;"></span>
 
 2.[Simples portfolio](https://github.com/douglas-vitor/tests_and_studies/tree/master/exemplo02-simples_portfolio)
 - Simples exemplo de portfolio, usando as tecnologias JavaScript, Css e Html.
@@ -28,7 +28,7 @@
 </div>
 
 
-<span style="width:100%; height:40px;"></span>
+<span style="width:100%; height:80px;"></span>
 
 3.[Controle de academia](https://github.com/douglas-vitor/tests_and_studies/tree/master/exemplo03-controle_de_academia)
 - Sistema completo de gestão de intrutores e membros de uma academia.
