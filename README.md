@@ -15,6 +15,7 @@
 </div>
 
 <div style="width:100%" height:20px;></div>
+
 2.[Simples portfolio](https://github.com/douglas-vitor/tests_and_studies/tree/master/exemplo02-simples_portfolio)
 - Simples exemplo de portfolio, usando as tecnologias JavaScript, Css e Html.
 - Estrutura de arquivos usando template engine Nunjucks.
