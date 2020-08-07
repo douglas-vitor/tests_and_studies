@@ -14,7 +14,7 @@
 <img src="exemplo01-relogio_animado/prints/noite.png" width="100px" height="auto">
 </div>
 
-<div style="width:100%; height:80px;"></div>
+<span style="width:100%; height:4rem;"></span>
 
 2.[Simples portfolio](https://github.com/douglas-vitor/tests_and_studies/tree/master/exemplo02-simples_portfolio)
 - Simples exemplo de portfolio, usando as tecnologias JavaScript, Css e Html.
