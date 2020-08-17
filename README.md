@@ -14,6 +14,7 @@
 <img src="exemplo01-relogio_animado/prints/noite.png" width="100px" height="auto">
 </div>
 
+<span style="width:100%; height:4rem;"></span>
 
 2.[Simples portfolio](https://github.com/douglas-vitor/tests_and_studies/tree/master/exemplo02-simples_portfolio)
 - Simples exemplo de portfolio, usando as tecnologias JavaScript, Css e Html.
@@ -26,6 +27,8 @@
 <img src="exemplo02-simples_portfolio/prints/preview.png" width="250px" height="auto">
 </div>
 
+
+<span style="width:100%; height:80px;"></span>
 
 3.[Controle de academia](https://github.com/douglas-vitor/tests_and_studies/tree/master/exemplo03-controle_de_academia)
 - Sistema completo de gestão de intrutores e membros de uma academia.
@@ -45,9 +48,13 @@
 <img src="exemplo03-controle_de_academia/captures/04.png" width="250px" height="auto">
 <img src="exemplo03-controle_de_academia/captures/05.png" width="250px" height="auto">
 </div> 
+<<<<<<< HEAD
 
 4.[Simples site de empresa](https://github.com/douglas-vitor/tests_and_studies/tree/master/exemplo04-simples_site_empresa)
 - Simples modelo de site para empresas que estão iniciando no mercado;
 - Utilizado a ideia de mobile first;
 ###### Prints
 Em breve!
+=======
+>>>>>>> 7ccf1127ebdc9f0d98f96e3723568e117034ab05
+ 
