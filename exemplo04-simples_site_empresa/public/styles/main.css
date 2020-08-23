@@ -115,7 +115,8 @@ body section div.item:nth-child(1) span:nth-child(2) {
     display: block;
     background-image: url("/assets/02.png");
     background-position: center;
-    background-size: cover;
+    background-size: cover; /*cover*/
+    background-repeat: no-repeat;
     width: 15em;
     height: 15em;
     margin: 2em auto;
@@ -180,7 +181,7 @@ body section div.item:nth-child(3) .icons span img {
     border-radius: 4px;
 }
 
-body section div.item:nth-child(4) button {
+body section div.item:nth-child(4) .button {
     display: block;
     width: 30em;
     background-color: var(--title-color);
@@ -191,8 +192,9 @@ body section div.item:nth-child(4) button {
     font-weight: bold;
     text-transform: uppercase;
     margin: 4em auto;
+    text-align: center;
 }
-body section div.item:nth-child(4) button:hover {
+body section div.item:nth-child(4) .button:hover {
     background: none;
     border: 1px solid var(--title-color);
     color: var(--theme-color);
@@ -246,11 +248,13 @@ footer section:nth-child(1) div:nth-child(3) p {
     margin-top: 0.5em;
 }
 footer section:nth-child(2) {
+    width: 100%;
     display: flex;
     text-align: center;
     justify-content: center;
     padding: 5px 0 ;
     font-size: 12px;
     color: white;
+    margin: 0;
     background-color: var(--medium-black2);
 }
