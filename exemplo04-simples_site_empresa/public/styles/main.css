@@ -161,8 +161,8 @@ body section div.item:nth-child(3) .icons span {
     margin: 2em 0.5em;
 }
 body section div.item:nth-child(3) .icons span img {
-    width: 3em;
-    height: 3em;
+    width: 3em; /*3em*/
+    height: 3em; /*3em*/
 }
 .desactived {
     filter: grayscale(100%);
