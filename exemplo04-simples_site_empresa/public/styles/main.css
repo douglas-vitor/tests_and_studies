@@ -38,16 +38,17 @@ body nav div.networks {
 }
 .networks a:nth-child(1) span {
     display: flex;
-    background-image: url("/assets/fb-icon.png");
+    background-image: url("/assets/fb-icon.svg");
     background-position: center;
     background-size: cover;
     width: 2em;
     height: 2em;
     margin-right: 10px;
+    margin-left: 10px;
 }
 .networks a:nth-child(2) span {
     display: flex;
-    background-image: url("/assets/linkedin-icon.png");
+    background-image: url("/assets/linkedin-icon.svg");
     background-position: center;
     background-size: cover;
     width: 2em;
@@ -56,7 +57,7 @@ body nav div.networks {
 }
 .networks a:nth-child(3) span {
     display: flex;
-    background-image: url("/assets/ytb-icon.png");
+    background-image: url("/assets/ytb-icon.svg");
     background-position: center;
     background-size: cover;
     width: 2em;
@@ -115,7 +116,7 @@ body section div.item:nth-child(1) span:nth-child(2) {
     display: block;
     background-image: url("/assets/02.png");
     background-position: center;
-    background-size: cover; /*cover*/
+    background-size: 125%; /*cover*/
     background-repeat: no-repeat;
     width: 15em;
     height: 15em;
